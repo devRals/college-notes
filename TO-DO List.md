@@ -5,4 +5,4 @@ Whatever the title says :3
 > `- [ ] <your-text> (@yyyy-mm-dd)`
 > `- [x] <your-text> (@yyyy-mm-dd)`
 
-No Tasks! YAY You're perfect! :3
+- [ ] Finish the discrete math homework (@2026-12-01)

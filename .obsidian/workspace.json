@@ -4,153 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "65b11f49766a1163",
+        "id": "e1f1c2fcc757ad41",
         "type": "tabs",
         "children": [
           {
-            "id": "9a71218b2a3d6327",
+            "id": "6190b270bb794d30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exam Dates/Exam Dates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exam Dates"
+            }
+          },
+          {
+            "id": "1b3271d759609c5e",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
               "state": {},
               "icon": "calendar-glyph",
               "title": "Calendar"
-            }
-          },
-          {
-            "id": "ca77421540b74c87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Python/Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python"
-            }
-          },
-          {
-            "id": "a2f5dff8069cd61f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/LaTex/LaTex.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LaTex"
-            }
-          },
-          {
-            "id": "0997054dde3ebe2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Number Theory/Number Theory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Number Theory"
-            }
-          },
-          {
-            "id": "f88ed409bb7f752d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "c4e2a9f30042bcef",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "11be5e96084bed3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Number Theory/Modular Arithmetic/Modular Arithmetic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modular Arithmetic"
-            }
-          },
-          {
-            "id": "b148ef3043f4c833",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Number Theory/Number Systems/Number Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Number Systems"
-            }
-          },
-          {
-            "id": "3b0ca1546083088e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Number Theory/Number Systems/Number Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Number Systems"
-            }
-          },
-          {
-            "id": "068bdf410133e487",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Number Theory/Number Systems/Bits and Bytes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bits and Bytes"
-            }
-          },
-          {
-            "id": "b8d7b87e0f22b74d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Number Theory/Number Systems/Number Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Number Systems"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -290,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Number Theory/Number Systems/Number Systems.md",
+                "file": "Exam Dates/Exam Dates.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -307,16 +189,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "35710236671e473f",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
             }
           },
           {
@@ -348,24 +220,30 @@
       "bases:Create new base": false,
       "sheet-plus:Create excel file": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian42-brat:BRAT": false
+      "full-calendar-remastered:Open calendar agent": false,
+      "full-calendar-remastered:Open Full Calendar": false,
+      "full-calendar-remastered:FCR Command": false
     }
   },
-  "active": "9582129c0d3c3dd0",
+  "active": "1b3271d759609c5e",
   "lastOpenFiles": [
+    "TO-DO List.md",
+    "Math/Number Theory/Number Systems/Bits and Bytes.md",
+    "Math/Number Theory/Number Systems/Number Systems.md",
+    "Math/Number Theory/Modular Arithmetic/Modular Arithmetic.md",
+    "Exam Dates/Exam Dates.md",
+    "Exam Dates/Exams.md",
+    "Class Schedule.md",
+    "Drawings/Drawings.md",
     "Math/Number Theory/Number Theory.md",
     "Math/Math.md",
     "Math/Boolean Algebra/Boolean Algebra.md",
-    "Math/Number Theory/Number Systems/Number Systems.md",
     "Positional Notation.md",
     "Math/Number Theory/Number Systems/Base Conversion.md",
     "Math/Number Theory/Number Systems/Binary.md",
-    "Math/Number Theory/Number Systems/Bits and Bytes.md",
     "Math/Number Theory/Number Systems/Hexadecimal.md",
     "Math/Number Theory/Number Systems/Decimal.md",
     "Math/Number Theory/Number Systems/Octal.md",
-    "Math/Number Theory/Modular Arithmetic/Modular Arithmetic.md",
     "Math/Number Theory/Modular Arithmetic/Remainders.md",
     "Math/Number Theory/Modular Arithmetic/Congruence.md",
     "Math/Number Theory/Prime Numbers.md",
@@ -375,11 +253,6 @@
     "Math/LaTex/LaTex.md",
     "Programming/Python/Python.md",
     "Programming/Programming.md",
-    "Class Schedule.md",
-    "TO-DO List.md",
-    "README.md",
-    "Exam Dates/Exam Dates.md",
-    "Exam Dates/Exams.md",
     "Algorithms/Linear Search O(n).canvas",
     "Excalidraw",
     "Math/Number Theory/Modular Arithmetic",

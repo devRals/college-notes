@@ -1,7 +1,16 @@
 {
   "scanned": true,
   "seededTaskStatuses": "",
-  "reminders": {},
+  "reminders": {
+    "TO-DO List.md": [
+      {
+        "title": "Finish the discrete math homework",
+        "time": "2026-12-01",
+        "rowNumber": 7,
+        "muted": false
+      }
+    ]
+  },
   "noteReminders": {},
   "debug": false,
   "dndUntil": null,
