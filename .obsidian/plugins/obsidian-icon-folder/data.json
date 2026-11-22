@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiListTodo",
+      "LiTable",
+      "TiMarkdown",
       "TiNumber123",
-      "LiPenBox",
-      "LiCheck",
-      "LiSigma",
-      "LiPen"
+      "LiPenBox"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -53,5 +53,14 @@
     "iconName": "LiCodeSquare",
     "iconColor": "#eb0052"
   },
-  "Math/Number Theory": "TiNumber123"
+  "Math/Number Theory": "TiNumber123",
+  "README.md": "TiMarkdown",
+  "Class Schedule.md": {
+    "iconName": "LiTable",
+    "iconColor": "#8a7700"
+  },
+  "TO-DO List.md": {
+    "iconName": "LiListTodo",
+    "iconColor": "#cf00eb"
+  }
 }

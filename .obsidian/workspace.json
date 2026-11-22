@@ -4,35 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "e1f1c2fcc757ad41",
+        "id": "b5adb7d7007c3c57",
         "type": "tabs",
         "children": [
           {
-            "id": "6190b270bb794d30",
+            "id": "fb85a03db0743282",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam Dates/Exam Dates.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exam Dates"
+              "title": "README"
             }
           },
           {
-            "id": "1b3271d759609c5e",
+            "id": "17db13928f8ebd7e",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
+              "type": "markdown",
+              "state": {
+                "file": "Math/Number Theory/Modular Arithmetic/Remainders.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Remainders"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam Dates/Exam Dates.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,8 +200,18 @@
             "state": {
               "type": "reminder-list",
               "state": {},
-              "icon": "clock",
-              "title": "Reminders"
+              "icon": "lucide-ghost",
+              "title": "reminder-list"
+            }
+          },
+          {
+            "id": "5a3f0edcd04114d9",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-agent-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Calendar agent"
             }
           }
         ],
@@ -212,47 +225,48 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "sheet-plus:Create excel file": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "full-calendar-remastered:Open calendar agent": false,
+      "obsidian-git:Open Git source control": false,
+      "sheet-plus:Create excel file": false,
       "full-calendar-remastered:Open Full Calendar": false,
-      "full-calendar-remastered:FCR Command": false
+      "full-calendar-remastered:FCR Command": false,
+      "full-calendar-remastered:Open calendar agent": false
     }
   },
-  "active": "1b3271d759609c5e",
+  "active": "fb85a03db0743282",
   "lastOpenFiles": [
-    "TO-DO List.md",
-    "Math/Number Theory/Number Systems/Bits and Bytes.md",
-    "Math/Number Theory/Number Systems/Number Systems.md",
-    "Math/Number Theory/Modular Arithmetic/Modular Arithmetic.md",
     "Exam Dates/Exam Dates.md",
-    "Exam Dates/Exams.md",
-    "Class Schedule.md",
-    "Drawings/Drawings.md",
-    "Math/Number Theory/Number Theory.md",
     "Math/Math.md",
-    "Math/Boolean Algebra/Boolean Algebra.md",
-    "Positional Notation.md",
+    "Math/Number Theory/Number Theory.md",
+    "Programming/Programming.md",
+    "Math/Number Theory/Modular Arithmetic/Modular Arithmetic.md",
+    "Math/Number Theory/Modular Arithmetic/Remainders.md",
     "Math/Number Theory/Number Systems/Base Conversion.md",
     "Math/Number Theory/Number Systems/Binary.md",
+    "Math/Number Theory/Number Systems/Number Systems.md",
+    "Modulo Operation.md",
+    "Untitled.base",
+    "Class Schedule.md",
+    "TO-DO List.md",
+    "README.md",
+    "Math/Number Theory/Number Systems/Bits and Bytes.md",
+    "Exam Dates/Exams.md",
+    "Drawings/Drawings.md",
+    "Math/Boolean Algebra/Boolean Algebra.md",
+    "Positional Notation.md",
     "Math/Number Theory/Number Systems/Hexadecimal.md",
     "Math/Number Theory/Number Systems/Decimal.md",
     "Math/Number Theory/Number Systems/Octal.md",
-    "Math/Number Theory/Modular Arithmetic/Remainders.md",
     "Math/Number Theory/Modular Arithmetic/Congruence.md",
     "Math/Number Theory/Prime Numbers.md",
     "Math/Number Theory/Least Common Multiple.md",
     "Math/Number Theory/Greatest Common Divisor.md",
     "Math/Number Theory/Divisibility.md",
-    "Math/LaTex/LaTex.md",
-    "Programming/Python/Python.md",
-    "Programming/Programming.md",
     "Algorithms/Linear Search O(n).canvas",
     "Excalidraw",
     "Math/Number Theory/Modular Arithmetic",
@@ -267,7 +281,6 @@
     "Math/Latex/Expressions/Symbols/Untitled",
     "Math/LaTex/Expressions/Symbols",
     "Math/LaTex/Expressions",
-    "Math/LaTex",
     "Ink/Writing/2026.10.4 - 12.56pm.svg",
     "Ink/Writing/2026.10.3 - 22.29pm.svg",
     "Ink/Drawing/2026.10.3 - 22.29pm.svg",
